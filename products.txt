@@ -1,0 +1,9 @@
+Laptop,1500.0
+Smartphone,1600.0
+Laptop,1500.0
+Smartphone,1600.0
+Laptop,1500.0
+Smartphone,2000.0
+LAptop,1600.0
+Smartphone,1000.0
+ipod,1600.0
